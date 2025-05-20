@@ -1,2 +1,2 @@
-# imageUpload-Public
-deploy backend with github action on ec2 instance 
+# imgUpload
+To practice springboot features and applying cicd and docker
